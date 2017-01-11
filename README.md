@@ -1,7 +1,7 @@
 # SlacKick
 We have this joke in our university class (yes, university, you read that right) where one user is removed from some channels and then re-added immediately after. This is a quick Swift script to automate the process. Enjoy all the notifications! 😇
 
-<p align="center"><img src="slackick.gif" width="600px"/></p>
+<p align="center"><img src="slackick.gif" width="800px"/></p>
 
 At this moment, the user is removed and immediately re-added from all channels. You could probably make the script more useful by modifying it to add a user to all channels only (useful in case somebody joins your company for example).
 
