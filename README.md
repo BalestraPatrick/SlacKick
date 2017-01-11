@@ -8,7 +8,7 @@ At this moment, the user is removed and immediately re-added from all channels. 
 ## Usage
 Open the Xcode project and run it. You can also compile it from the command line if you prefer.
 
-Add your own Authentication token that requires `users:write` scope. You need to be the Slack admin to generate this key. Insert the username too in the first lines of the script.
+Add your own Authentication token that requires the `users:write` scope. You need to be a Slack admin to generate this key. Insert the username too in the first lines of the script.
 
 ```swift
 private let token = "YOUR_TOKEN"
